@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi folks! 👋
 
-<!--
-**davidaparicio/davidaparicio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![website badge](https://img.shields.io/badge/website-david.aparicio.eu-yellow?style=flat-square)](https://david.aparicio.eu)
+[![twitter badge](https://img.shields.io/badge/twitter-@dadideo-blue?style=flat-square&logo=twitter)](https://twitter.com/dadideo)
+[![dev.to badge](https://img.shields.io/badge/dev.to-davidaparicio-black?style=flat-square&logo=dev.to)](https://dev.to/davidaparicio)
 
-Here are some ideas to get you started:
+I'm David, a DevSecOps in Lyon, France 🇫🇷.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on **BigData platforms at [OVHCloud](https://www.ovhcloud.com), including some cool [meetups](https://gitlab.com/davidaparicio)!**
+- 🌱 I’m currently learning **Go, Rust, and Spark**
+- 👯 I’m looking to collaborate on **open source projects**
+- 🤔 I’m looking for help with **learning more about secure reactive and resilient distributed systems**
+- 💬 Ask me about **algorithms, security, distributed systems and development**
+- 📫 How to reach me: **[Twitter](https://twitter.com/dadideo)**
+- 😄 Pronouns: [he/him](https://pronoun.is/they)
+- ⚡ Fun fact: **I really like hiking 🏞 & skiing ⛷**
