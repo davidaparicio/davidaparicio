@@ -17,6 +17,11 @@ I'm David, a DevSecOps in Lyon, France 🇫🇷.
 
 # My next participation
 <!-- EVENT-LIST:START -->
+- [Hacker News Coffee ☕](https://davidaparicio.gitlab.io/website/talk/hacker-news-coffee/)
+- [Security at the early stage of the project](https://davidaparicio.gitlab.io/website/talk/security-at-the-early-stage-of-the-project/)
+- [Security at the start of the project](https://davidaparicio.gitlab.io/website/talk/security-at-the-start-of-the-project/)
+- [Father Castor 🐻, tell me some OPS stories](https://davidaparicio.gitlab.io/website/talk/father-castor-tell-me-some-ops-stories/)
+- [Security at the early stage](https://davidaparicio.gitlab.io/website/talk/security-at-the-early-stage/)
 <!-- EVENT-LIST:END -->
 
 # Blog posts
