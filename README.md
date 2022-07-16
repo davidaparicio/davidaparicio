@@ -30,4 +30,5 @@ I'm David, a DevSecOps in Lyon, France 🇫🇷.
 
 ### 🇫🇷 Mes derniers articles
 <!-- FR-POST-LIST:START -->
+- [Une liste de nouveaux outils en ligne de commande](https://davidaparicio.gitlab.io/website/fr/post/cli/)
 <!-- FR-POST-LIST:END -->
