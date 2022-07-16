@@ -15,7 +15,7 @@ I'm David, a DevSecOps in Lyon, France 🇫🇷.
 - 😄 Pronouns: [he/him](https://pronoun.is/they)
 - ⚡ Fun fact: **I really like hiking 🏞 & skiing ⛷**
 
-# My next participation
+### 🎤 Speaker in these conferences
 <!-- EVENT-LIST:START -->
 - [Hacker News Coffee ☕](https://davidaparicio.gitlab.io/website/talk/hacker-news-coffee/)
 - [Security at the early stage of the project](https://davidaparicio.gitlab.io/website/talk/security-at-the-early-stage-of-the-project/)
@@ -24,6 +24,10 @@ I'm David, a DevSecOps in Lyon, France 🇫🇷.
 - [Security at the early stage](https://davidaparicio.gitlab.io/website/talk/security-at-the-early-stage/)
 <!-- EVENT-LIST:END -->
 
-# Blog posts
+### 🇺🇸 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
+
+### 🇫🇷 Mes derniers articles
+<!-- FR-POST-LIST:START -->
+<!-- FR-POST-LIST:END -->
