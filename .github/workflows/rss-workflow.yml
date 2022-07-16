@@ -1,0 +1,22 @@
+name: Latest blog entries workflow
+on:
+  schedule: # Run workflow automatically
+    - cron: '0 * * * *' # Runs every hour, on the hour
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest events and blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Pull in blog events
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          comment_tag_name: "EVENT-LIST"
+          feed_list: "https://davidaparicio.gitlab.io/website/event/index.xml"
+      - name: Pull in blog posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://davidaparicio.gitlab.io/website/post/index.xml,https://davidaparicio.gitlab.io/website/fr/post/index.xml"

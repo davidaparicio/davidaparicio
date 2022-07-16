@@ -14,3 +14,11 @@ I'm David, a DevSecOps in Lyon, France 🇫🇷.
 - 📫 How to reach me: **[Twitter](https://twitter.com/dadideo)**
 - 😄 Pronouns: [he/him](https://pronoun.is/they)
 - ⚡ Fun fact: **I really like hiking 🏞 & skiing ⛷**
+
+# My next participation
+<!-- EVENT-LIST:START -->
+<!-- EVENT-LIST:END -->
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
