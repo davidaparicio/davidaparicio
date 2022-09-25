@@ -20,8 +20,8 @@ I'm David, a DevSecOps in Lyon, France 🇫🇷.
 - [Hacker News Coffee ☕](https://davidaparicio.gitlab.io/website/talk/hacker-news-coffee/)
 - [Take back control of your Bash!](https://davidaparicio.gitlab.io/website/talk/take-back-control-of-your-bash/)
 - [Security at the early stage of the project](https://davidaparicio.gitlab.io/website/talk/security-at-the-early-stage-of-the-project/)
-- [Security at the start of the project](https://davidaparicio.gitlab.io/website/talk/security-at-the-start-of-the-project/)
-- [Father Castor 🐻, tell me some OPS stories](https://davidaparicio.gitlab.io/website/talk/father-castor-tell-me-some-ops-stories/)
+- [Father Castor 🐻, tell us some OPS stories &lpar;BBL&rpar;](https://davidaparicio.gitlab.io/website/talk/father-castor-tell-us-some-ops-stories-bbl/)
+- [Take back control of Bash by becoming a CLI ninja! &lpar;Dev community&rpar;](https://davidaparicio.gitlab.io/website/talk/take-back-control-of-bash-by-becoming-a-cli-ninja-dev-community/)
 <!-- EVENT-LIST:END -->
 
 ### 🇺🇸 My recent blog posts
