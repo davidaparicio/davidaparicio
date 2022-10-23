@@ -17,11 +17,11 @@ I'm David, a DevSecOps in Lyon, France 🇫🇷.
 
 ### 🎤 Speaker in these conferences
 <!-- EVENT-LIST:START -->
-- [Hacker News Coffee ☕](https://davidaparicio.gitlab.io/website/talk/hacker-news-coffee/)
-- [Take back control of your Bash!](https://davidaparicio.gitlab.io/website/talk/take-back-control-of-your-bash/)
-- [Security at the early stage of the project](https://davidaparicio.gitlab.io/website/talk/security-at-the-early-stage-of-the-project/)
-- [Father Castor 🐻, tell us some OPS stories &lpar;BBL&rpar;](https://davidaparicio.gitlab.io/website/talk/father-castor-tell-us-some-ops-stories-bbl/)
-- [Take back control of Bash by becoming a CLI ninja! &lpar;Dev community&rpar;](https://davidaparicio.gitlab.io/website/talk/take-back-control-of-bash-by-becoming-a-cli-ninja-dev-community/)
+- [Hacker News Coffee ☕](https://.gitlab.io/talk/hacker-news-coffee/)
+- [Take back control of your Bash!](https://.gitlab.io/talk/take-back-control-of-your-bash/)
+- [Security at the early stage of the project](https://.gitlab.io/talk/security-at-the-early-stage-of-the-project/)
+- [Father Castor 🐻, tell us some OPS stories &lpar;BBL&rpar;](https://.gitlab.io/talk/father-castor-tell-us-some-ops-stories-bbl/)
+- [Take back control of Bash by becoming a CLI ninja! &lpar;Dev community&rpar;](https://.gitlab.io/talk/take-back-control-of-bash-by-becoming-a-cli-ninja-dev-community/)
 <!-- EVENT-LIST:END -->
 
 ### 🇺🇸 My recent blog posts
