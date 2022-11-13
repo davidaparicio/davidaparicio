@@ -16,13 +16,13 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "EVENT-LIST"
-          feed_list: "https://davidaparicio.gitlab.io/website/event/index.xml"
+          feed_list: "https://davidaparicio.gitlab.io/event/index.xml"
       - name: Pull in blog posts (EN)
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: "https://davidaparicio.gitlab.io/website/post/index.xml"
+          feed_list: "https://davidaparicio.gitlab.io/post/index.xml"
       - name: Pull in blog events (FR)
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           comment_tag_name: "FR-POST-LIST"
-          feed_list: "https://davidaparicio.gitlab.io/website/fr/post/index.xml"
+          feed_list: "https://davidaparicio.gitlab.io/fr/post/index.xml"
