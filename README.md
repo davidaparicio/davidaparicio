@@ -30,6 +30,6 @@ I'm David, a DevSecOps in Lyon, France 🇫🇷.
 
 ### 🇫🇷 Mes derniers articles
 <!-- FR-POST-LIST:START -->
-- [Les hackers n&#39;en ont rien à f**tre !](https://.gitlab.io/fr/post/kiwicon/)
-- [Une liste de nouveaux outils en ligne de commande](https://.gitlab.io/fr/post/cli/)
+- [Les hackers n&#39;en ont rien à f**tre !](/fr/post/kiwicon/)
+- [Une liste de nouveaux outils en ligne de commande](/fr/post/cli/)
 <!-- FR-POST-LIST:END -->
