@@ -19,9 +19,9 @@ I'm David, a DevSecOps in Lyon, France 🇫🇷.
 <!-- EVENT-LIST:START -->
 - [Hacker News Coffee ☕](/talk/hacker-news-coffee/)
 - [WS Security, Install party 🎉](/talk/ws-security-install-party/)
+- [Migration to the cloud, myths and beliefs ☁️](/talk/migration-to-the-cloud-myths-and-beliefs/)
 - [Migration to the cloud, imminent departure! Myths and beliefs ☁️](/talk/migration-to-the-cloud-imminent-departure-myths-and-beliefs/)
 - [WS Security, where to start? Install party 🎉](/talk/ws-security-where-to-start-install-party/)
-- [Take back control of your Bash!](/talk/take-back-control-of-your-bash/)
 <!-- EVENT-LIST:END -->
 
 ### 🇺🇸 My recent blog posts
