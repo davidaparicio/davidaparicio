@@ -18,10 +18,10 @@ I'm David, a DevSecOps in Lyon, France 🇫🇷.
 ### 🎤 Speaker in these conferences
 <!-- EVENT-LIST:START -->
 - [Hacker News Coffee ☕](/talk/hacker-news-coffee/)
+- [Workshop Security, Install party 🎉](/talk/workshop-security-install-party/)
+- [Organization of Cloud Alpes](/talk/organization-of-cloud-alpes/)
+- [Darling, I&#39;ve got &quot;Blinky&quot; the Prod](/talk/darling-ive-got-blinky-the-prod/)
 - [WS Security, Install party 🎉](/talk/ws-security-install-party/)
-- [Migration to the cloud, myths and beliefs ☁️](/talk/migration-to-the-cloud-myths-and-beliefs/)
-- [Migration to the cloud, imminent departure! Myths and beliefs ☁️](/talk/migration-to-the-cloud-imminent-departure-myths-and-beliefs/)
-- [WS Security, where to start? Install party 🎉](/talk/ws-security-where-to-start-install-party/)
 <!-- EVENT-LIST:END -->
 
 ### 🇺🇸 My recent blog posts
