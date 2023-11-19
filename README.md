@@ -18,10 +18,10 @@ I'm David, a DevSecOps in Lyon, France 🇫🇷.
 ### 🎤 Speaker in these conferences
 <!-- EVENT-LIST:START -->
 - [Hacker News Coffee ☕](/talk/hacker-news-coffee/)
+- [WS Security, THE Install Party 🎉](/talk/ws-security-the-install-party/)
 - [Workshop Security, Install party 🎉](/talk/workshop-security-install-party/)
 - [Organization of Cloud Alpes](/talk/organization-of-cloud-alpes/)
 - [Darling, I&#39;ve got &quot;Blinky&quot; the Prod](/talk/darling-ive-got-blinky-the-prod/)
-- [WS Security, Install party 🎉](/talk/ws-security-install-party/)
 <!-- EVENT-LIST:END -->
 
 ### 🇺🇸 My recent blog posts
