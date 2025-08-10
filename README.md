@@ -26,6 +26,7 @@ I'm David, a DevSecOps in Lyon, France 🇫🇷.
 
 ### 🇺🇸 My recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [1st prize at the Dust/Qonto AI agent hackathon](/post/dust_hackathon2025/)
 <!-- BLOG-POST-LIST:END -->
 
 ### 🇫🇷 Mes derniers articles
