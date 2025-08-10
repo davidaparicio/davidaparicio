@@ -31,6 +31,7 @@ I'm David, a DevSecOps in Lyon, France 🇫🇷.
 
 ### 🇫🇷 Mes derniers articles
 <!-- FR-POST-LIST:START -->
+- [1er prix à l&#39;hackathon Dust/Qonto des agents IA](/fr/post/dust_hackathon2025/)
 - [Les hackers n&#39;en ont rien à f**tre !](/fr/post/kiwicon/)
 - [Une liste de nouveaux outils en ligne de commande](/fr/post/cli/)
 <!-- FR-POST-LIST:END -->
