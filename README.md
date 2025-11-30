@@ -17,11 +17,11 @@ I'm David, a DevSecOps in Lyon, France 🇫🇷.
 
 ### 🎤 Speaker in these conferences
 <!-- EVENT-LIST:START -->
+- [Secure your prototypes with OAuth2-Proxy](/talk/secure-your-prototypes-with-oauth2-proxy/)
 - [Hacker News Coffee ☕](/talk/hacker-news-coffee/)
+- [Secure your applications with DevSecOps](/talk/secure-your-applications-with-devsecops/)
+- [The scary story of DevSecOps &lpar;backup&rpar;](/talk/the-scary-story-of-devsecops-backup/)
 - [I have a namesake!!! 😨 Help please! 😱](/talk/i-have-a-namesake-help-please/)
-- [Help please 😨! I have a namesake!!! 😱](/talk/help-please-i-have-a-namesake/)
-- [Vibe Coding &amp; Go &lpar;meetup&rpar;](/talk/vibe-coding-go-meetup/)
-- [Father Castor 🐻, tell us a Python story &lpar;meetup&rpar;](/talk/father-castor-tell-us-a-python-story-meetup/)
 <!-- EVENT-LIST:END -->
 
 ### 🇺🇸 My recent blog posts
