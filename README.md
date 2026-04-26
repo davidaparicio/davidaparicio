@@ -17,11 +17,11 @@ I'm David, a Senior DevSecOps in Lyon, France 🇫🇷.
 
 ### 🎤 Speaker in these conferences
 <!-- EVENT-LIST:START -->
+- [Secure your prototypes with OAuth2-Proxy and Anubis](/talk/secure-your-prototypes-with-oauth2-proxy-and-anubis/)
 - [Secure your prototypes with OAuth2-Proxy](/talk/secure-your-prototypes-with-oauth2-proxy/)
 - [Hacker News Coffee ☕](/talk/hacker-news-coffee/)
 - [Secure your applications with DevSecOps](/talk/secure-your-applications-with-devsecops/)
 - [The scary story of DevSecOps &lpar;backup&rpar;](/talk/the-scary-story-of-devsecops-backup/)
-- [I have a namesake!!! 😨 Help please! 😱](/talk/i-have-a-namesake-help-please/)
 <!-- EVENT-LIST:END -->
 
 ### 🇺🇸 My recent blog posts
