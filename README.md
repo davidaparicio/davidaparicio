@@ -6,10 +6,10 @@
 
 I'm David, a Senior DevSecOps in Lyon, France 🇫🇷.
 
-- 🔭 I’m currently working on **Kubernetes platforms at [Agicap](https://agicap.com), including some cool [meetups](https://gitlab.com/davidaparicio)!**
-- 🌱 I’m currently learning **Go, Rust, and Spark**
+- 🔭 I’m currently working on **Kubernetes platforms at [Eudonet](https://eudonet.com), including some cool [meetups](https://gitlab.com/davidaparicio)!**
+- 🌱 I’m currently learning **Go, Rust, and Zig**
 - 👯 I’m looking to collaborate on **open source projects**
-- 🤔 I’m looking for help with **learning more about secure reactive and resilient distributed systems**
+- 🤔 I’m looking for help with **learning more about AI agency, secure reactive and resilient distributed systems**
 - 💬 Ask me about **algorithms, security, distributed systems and development**
 - 📫 How to reach me: **[Twitter](https://twitter.com/dadideo)**
 - 😄 Pronouns: [he/him](https://my.geeky.gay/pronouns/he/him/his/himself/)
