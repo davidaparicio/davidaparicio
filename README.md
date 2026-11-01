@@ -17,11 +17,11 @@ I'm David, a Senior DevSecOps in Lyon, France 🇫🇷.
 
 ### 🎤 Speaker in these conferences
 <!-- EVENT-LIST:START -->
+- [Secure properly your prototypes with OAuth2-Proxy/Anubis](/talk/secure-properly-your-prototypes-with-oauth2-proxy/anubis/)
 - [Secure your prototypes with Anubis and OAuth2-Proxy](/talk/secure-your-prototypes-with-anubis-and-oauth2-proxy/)
 - [Secure your prototypes with OAuth2-Proxy/Anubis](/talk/secure-your-prototypes-with-oauth2-proxy/anubis/)
 - [What I Learned Building With LLMs &lpar;meetup&rpar;](/talk/what-i-learned-building-with-llms-meetup/)
-- [Students, learn to secure your PoCs with OAuth2-Proxy and Anubis](/talk/students-learn-to-secure-your-pocs-with-oauth2-proxy-and-anubis/)
-- [Secure your prototypes with OAuth2-Proxy and Anubis](/talk/secure-your-prototypes-with-oauth2-proxy-and-anubis/)
+- [Organization of TechWork](/talk/organization-of-techwork/)
 <!-- EVENT-LIST:END -->
 
 ### 🇺🇸 My recent blog posts
